@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "176130996348",
+    "firebase_url": "https://acceso-unipamplona.firebaseio.com",
+    "project_id": "acceso-unipamplona",
+    "storage_bucket": "acceso-unipamplona.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176130996348:android:d197f88488ccd64a",
+        "android_client_info": {
+          "package_name": "com.biotecnum.programarcarnetsup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176130996348-lvabn52vq2495mh6r2m26sq0mmffq6iv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.biotecnum.programarcarnetsup",
+            "certificate_hash": "940400b29e00300c74c8490b4f0a16567377c722"
+          }
+        },
+        {
+          "client_id": "176130996348-3jqbkted24plqtq8ks5ek9hd96okdbtk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFzax1rxmNtmr4fzUAaK3M1KaphB3uX_s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176130996348-3jqbkted24plqtq8ks5ek9hd96okdbtk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
